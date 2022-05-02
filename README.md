@@ -9,7 +9,7 @@
 << One paragraph of project description goes here >>
 
 ### Roadmap
-  <<
+<<
   
 A list of features, function or non-functional, you would like to add in the future if you had time, i.e. Phase 2 stuff
 - [ ] Add Changelog
@@ -17,7 +17,7 @@ A list of features, function or non-functional, you would like to add in the fut
 - [ ] Add Additional Templates w/ Examples
 - [ ] Add "components" document to easily copy & paste sections of the readme
   
-  >>
+>>
   
 ## SRS
 [document](url to google doc)
@@ -31,7 +31,7 @@ A list of features, function or non-functional, you would like to add in the fut
   
  >>
   
- A step by step series of examples that tell you how to get a development env running
+A step by step series of examples that tell you how to get a development env running
 Say what the step will be  
 `Give the example`  
 And repeat  
